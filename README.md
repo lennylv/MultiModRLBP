@@ -4,7 +4,7 @@ This repository is an implementation of RNA-Small Molecule Ligand Binding Site P
 
 
 
-![](images/Mymodel.png)
+![](images\Mymodel.png)
 
 We implement four major components:
 
