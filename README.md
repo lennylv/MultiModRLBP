@@ -4,7 +4,7 @@ This repository is an implementation of RNA-Small Molecule Ligand Binding Site P
 
 
 
-![](https://github.com/lennylv/MultiModRLBP/tree/main/images/Mymodel.png)
+![](https://github.com/lennylv/MultiModRLBP/tree/main/images/Mymodel .png)
 
 We implement four major components:
 
